@@ -42,5 +42,3 @@ if __name__ == "__main__":
             break
 
     print("Program Berakhir, Terima Kasiih KAKAAAAA")
-
-testestestes
